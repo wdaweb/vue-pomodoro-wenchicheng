@@ -38,4 +38,4 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [wenchicheng/pomodoro_mix](http://rechilab.com/pomodoro_mix/)
+- [wenchicheng/pomodoro_mix](https://github.com/wenchicheng/pomodoro_mix)
